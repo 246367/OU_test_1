@@ -1,0 +1,3 @@
+D:/Inf/OUZ/cmake-build-debug/CMakeFiles/OUZ.dir
+D:/Inf/OUZ/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Inf/OUZ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
